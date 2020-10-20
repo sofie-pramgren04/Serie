@@ -22,7 +22,7 @@ h2{
   font-family: 'Oswald', sans-serif;
   font-size: 25px;
 }
-.säsong{
+.sasong{
   text-align: center;
 }
 h4 {
@@ -65,10 +65,10 @@ img{
   background-color: rgba(187, 111, 193, 0.60);
   color: white;
 }
-#Karaktärer {
+#Karaktarer {
   text-align: center;
 }
-.vänster {
+.vanster {
   float: left;
 
   width: 48vw;
